@@ -74,3 +74,11 @@ Received Import Request.
 Start importing Assets/Scenes/Thumb.unity using Guid(ffb0255a6029a8f4a98fbaf54832e1e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442ef7d05da0c695ba79171f19c4c53f') in 0.010673 seconds
   Import took 0.013220 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1171.866707 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(e9da67b042530854b96e6120665172d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(e9da67b042530854b96e6120665172d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeaf21eb8d0f600ca797b5c88af96341') in 0.920446 seconds
+  Import took 6.178257 seconds .
+
