@@ -41,6 +41,5 @@
 *.vsdx filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 ### Standard # ADD CUSTOM SETTINGS BELOW
-*.unity binary diff=unity
-*.prefab binary diff=unity
-*.asset binary diff=unity
+*.unity filter=lfs diff=lfs merge=lfs -text
+
